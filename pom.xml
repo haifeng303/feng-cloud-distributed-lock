@@ -16,7 +16,7 @@
     <name>feng-cloud-distributed-lock</name>
     <description>distributed locking</description>
 
-    <url></url>
+    <url>https://github.com/haifeng303/feng-cloud-distributed-lock.git</url>
     <inceptionYear>2021</inceptionYear>
 
     <dependencies>
